@@ -1,0 +1,10 @@
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/bin/Debug/netcoreapp2.0/Decisions.deps.json
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/bin/Debug/netcoreapp2.0/Decisions.runtimeconfig.json
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/bin/Debug/netcoreapp2.0/Decisions.runtimeconfig.dev.json
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/bin/Debug/netcoreapp2.0/Decisions.dll
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/bin/Debug/netcoreapp2.0/Decisions.pdb
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/obj/Debug/netcoreapp2.0/Decisions.csproj.CoreCompileInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/obj/Debug/netcoreapp2.0/Decisions.AssemblyInfoInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/obj/Debug/netcoreapp2.0/Decisions.AssemblyInfo.cs
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/obj/Debug/netcoreapp2.0/Decisions.dll
+/Users/hallanpatrick/Projects/HelloWorld/Decisions/obj/Debug/netcoreapp2.0/Decisions.pdb

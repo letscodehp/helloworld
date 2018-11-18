@@ -1,0 +1,10 @@
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.deps.json
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.runtimeconfig.json
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.runtimeconfig.dev.json
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.dll
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/bin/Debug/netcoreapp2.0/UnderstandingArrays.pdb
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.AssemblyInfoInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.AssemblyInfo.cs
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.dll
+/Users/hallanpatrick/Projects/HelloWorld/UnderstandingArrays/obj/Debug/netcoreapp2.0/UnderstandingArrays.pdb

@@ -1,0 +1,11 @@
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.deps.json
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.runtimeconfig.json
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.runtimeconfig.dev.json
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.dll
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.pdb
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.csprojResolveAssemblyReference.cache
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.csproj.CoreCompileInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.AssemblyInfoInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.AssemblyInfo.cs
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.dll
+/Users/hallanpatrick/Projects/HelloWorld/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.pdb

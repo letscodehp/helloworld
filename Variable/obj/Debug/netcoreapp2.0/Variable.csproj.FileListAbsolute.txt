@@ -1,0 +1,11 @@
+/Users/hallanpatrick/Projects/HelloWorld/Variable/bin/Debug/netcoreapp2.0/Variable.deps.json
+/Users/hallanpatrick/Projects/HelloWorld/Variable/bin/Debug/netcoreapp2.0/Variable.runtimeconfig.json
+/Users/hallanpatrick/Projects/HelloWorld/Variable/bin/Debug/netcoreapp2.0/Variable.runtimeconfig.dev.json
+/Users/hallanpatrick/Projects/HelloWorld/Variable/bin/Debug/netcoreapp2.0/Variable.dll
+/Users/hallanpatrick/Projects/HelloWorld/Variable/bin/Debug/netcoreapp2.0/Variable.pdb
+/Users/hallanpatrick/Projects/HelloWorld/Variable/obj/Debug/netcoreapp2.0/Variable.csproj.CoreCompileInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/Variable/obj/Debug/netcoreapp2.0/Variable.AssemblyInfoInputs.cache
+/Users/hallanpatrick/Projects/HelloWorld/Variable/obj/Debug/netcoreapp2.0/Variable.AssemblyInfo.cs
+/Users/hallanpatrick/Projects/HelloWorld/Variable/obj/Debug/netcoreapp2.0/Variable.dll
+/Users/hallanpatrick/Projects/HelloWorld/Variable/obj/Debug/netcoreapp2.0/Variable.pdb
+/Users/hallanpatrick/Projects/HelloWorld/Variable/obj/Debug/netcoreapp2.0/Variable.csprojResolveAssemblyReference.cache
